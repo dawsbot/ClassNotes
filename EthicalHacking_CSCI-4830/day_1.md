@@ -3,13 +3,13 @@
 ###Networking basics
 * 802.3
 * 802.11
-* IP
+* IP - Internet Protocol: Has the task of delivering packets from the source to the destination host based solely on the IP address.
 * ICMP
 * UDP
 * TCP
-* ARP
-* DHCP
-* DNS
+* ARP: IP -> Mac
+* DHCP - Enables a server to assign an IP
+* DNS: URL -> IP
 * NAT
 * SSH
 * SSL - Is it really TLS?
