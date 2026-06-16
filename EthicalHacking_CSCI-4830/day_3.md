@@ -1,5 +1,5 @@
-#Day 3
-###Policy Issues
+# Day 3
+### Policy Issues
 	DeCSS
 	CALEA: US Wiretapping law. Enhances law enforcement's rights to conduct electronic survaillance
 	DMCA: Catch all law for reverse-engineering law suites

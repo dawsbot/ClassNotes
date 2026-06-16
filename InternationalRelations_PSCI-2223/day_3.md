@@ -25,7 +25,7 @@ Three I's:
     * The deal structure offered by the DA for the prisonners
     * Traffic light
 
-##Prisoner's Dilemma
+## Prisoner's Dilemma
 * If neither rat out their partner, they pay no time & split the $
 * If both rat out their partner, they both pay time & split the $
 
