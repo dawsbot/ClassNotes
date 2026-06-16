@@ -27,7 +27,7 @@ Economic Development 11-02
     *
 
 Human Rights 11-09
-##How can human rights be supressed?
+## How can human rights be supressed?
 
 1. They're Evil
 2. They
@@ -45,7 +45,7 @@ Three types of international norms:
 
 
 
-#FINAL PREP QUIZ
+# FINAL PREP QUIZ
 <br>
 Trade protection of the US steel industry <b>raises the cost of steel for American consumers</b>
 
