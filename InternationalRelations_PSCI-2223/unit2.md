@@ -1,3 +1,5 @@
+# Unit 2
+
 Economic Development 11-02
 
 **Factors**:
@@ -13,18 +15,14 @@ Economic Development 11-02
 
 <br>
 * Domestic Interests:
-    * Fewer particularistic interests
-    vs
-    * General interests
+    * Fewer particularistic interests *vs.* general interests
 
 <br>
 * Colonial History
-    *
 
 <br>
 * International Bias
     * Trade disadvantage (things that poor countries exports will forever be worth less than things that developed countries export)
-    *
 
 Human Rights 11-09
 ## How can human rights be supressed?
