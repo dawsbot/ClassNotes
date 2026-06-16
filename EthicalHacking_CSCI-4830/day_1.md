@@ -1,6 +1,6 @@
 # Ethical Hacking day 1
-##Things to know
-###Networking basics
+## Things to know
+### Networking basics
 * 802.3
 * 802.11
 * IP - Internet Protocol: Has the task of delivering packets from the source to the destination host based solely on the IP address.
@@ -18,5 +18,5 @@
 * SOCKS
 
 
-###OS Basics
+### OS Basics
 Linux filesystem and admin
