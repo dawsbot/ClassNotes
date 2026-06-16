@@ -1,3 +1,5 @@
+# 9-08 Recitation
+
 Discrete vs. Continuous quantification:
 
   1. Discrete: Countable/exact (ex. Birth month)
